@@ -1,4 +1,4 @@
-import { without } from 'lodash';
+import {without} from 'lodash'
 
 
 var css = document.querySelector("h3");
